@@ -1,0 +1,2 @@
+# POSSDK_Pro_Demo
+使用POSSDK_Pro sdk编写适用于POS打印机的行业样张
